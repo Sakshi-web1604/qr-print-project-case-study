@@ -50,6 +50,16 @@ This repository presents a retrospective case study of the project, focusing on 
 - Device compatibility improvements
 - Print-job status and monitoring
 
+  ## 🎥 Project Demo
+
+Watch the QR Print application demonstration:
+
+[**Click here to watch the QR Print Demo**] ## 🎥 Project Demo
+
+Watch the QR Print application demonstration:
+
+[**Click here to watch the QR Print Demo**]  https://drive.google.com/file/d/187B8koxok9aQTiBYQiZfKRg_1x8JjFvc/view?usp=sharing
+
 ## Important Note
 
 This repository contains documentation and portfolio material only. The original internship source code is not included because it was not retained and may be subject to confidentiality restrictions. This is a team project, and the repository does not claim ownership of the original implementation.
